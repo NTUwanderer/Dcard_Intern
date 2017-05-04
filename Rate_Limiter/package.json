@@ -1,0 +1,17 @@
+{
+  "name": "rate_limiter",
+  "version": "1.0.0",
+  "description": "#### Assumptions",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harvey Yang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "mongoose": "^4.9.7",
+    "nunjucks": "^3.0.0",
+    "path": "^0.12.7"
+  }
+}

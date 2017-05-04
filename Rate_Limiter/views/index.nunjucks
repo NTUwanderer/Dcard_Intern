@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Rate Limiter</title>
+	</head>
+	<body>
+		<h1>Success!</h1>
+		<h4>X-RateLimit-Remaining: <p>{{remaining}}</p></h4>
+		<h4>X-RateLimit-Reset: <p>{{reset}}</p></h4>
+	</body>
+</html>
